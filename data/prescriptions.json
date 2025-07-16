@@ -1,0 +1,77 @@
+[
+  {
+    "keywords": ["fever", "temperature", "high fever"],
+    "tablets": ["Paracetamol 500mg", "Dolo 650"],
+    "syrups": ["Crocin Syrup"]
+  },
+  {
+    "keywords": ["cold", "sneezing", "running nose"],
+    "tablets": ["Cetrizine", "Levocet"],
+    "syrups": ["Benadryl", "Zyncet Syrup"]
+  },
+  {
+    "keywords": ["cough", "dry cough"],
+    "tablets": ["Ascoril D", "Ambrodil"],
+    "syrups": ["Ascoril Syrup", "Coughnil"]
+  },
+  {
+    "keywords": ["headache", "migraine"],
+    "tablets": ["Saridon", "Sumatriptan"],
+    "syrups": []
+  },
+  {
+    "keywords": ["diabetes", "sugar"],
+    "tablets": ["Metformin", "Glimepiride"],
+    "syrups": []
+  },
+  {
+    "keywords": ["blood pressure", "bp", "hypertension"],
+    "tablets": ["Amlodipine", "Telmisartan"],
+    "syrups": []
+  },
+  {
+    "keywords": ["acidity", "heartburn", "indigestion"],
+    "tablets": ["Ranitidine", "Pantoprazole"],
+    "syrups": ["Digene Syrup"]
+  },
+  {
+    "keywords": ["vomiting", "nausea"],
+    "tablets": ["Ondansetron", "Domperidone"],
+    "syrups": ["Emeset Syrup"]
+  },
+  {
+    "keywords": ["diarrhea", "loose motion"],
+    "tablets": ["Loperamide", "ORS Sachets"],
+    "syrups": ["Electral Syrup"]
+  },
+  {
+    "keywords": ["allergy", "itching", "rash"],
+    "tablets": ["Cetirizine", "Allegra"],
+    "syrups": ["Atarax Syrup"]
+  },
+  {
+    "keywords": ["asthma", "breathing difficulty"],
+    "tablets": ["Theophylline", "Montelukast"],
+    "syrups": ["Salbutamol Syrup"]
+  },
+  {
+    "keywords": ["constipation"],
+    "tablets": ["Lactulose", "Isabgol"],
+    "syrups": ["Cremaffin Syrup"]
+  },
+  {
+    "keywords": ["body pain", "muscle pain", "back pain"],
+    "tablets": ["Ibuprofen", "Flexon"],
+    "syrups": []
+  },
+  {
+    "keywords": ["sore throat", "throat pain"],
+    "tablets": ["Strepsils", "Azithromycin"],
+    "syrups": ["Chlorhexidine Mouthwash"]
+  },
+  {
+    "keywords": ["skin infection", "fungal infection"],
+    "tablets": ["Fluconazole", "Terbinafine"],
+    "syrups": []
+  }
+]
